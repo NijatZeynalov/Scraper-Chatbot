@@ -1,4 +1,4 @@
-# Scrapper-Chatbot
+# Scraper Chatbot
 
 
 In recent years, with the development of Machine Learning and what we call "natural language processing" (NLP) technology, chatbots have become extremely useful and popular. In addition, today's chatbots are smarter, faster and more useful than the first examples. 
